@@ -3797,7 +3797,7 @@ msgstr "Análise de vendas"
 
 #. module: sale
 #: model:ir.actions.act_window,name:sale.action_order_report_customers
-msgid "Sales Analysis By Customers"
+msgid "Sales Analysis Per Customers"
 msgstr ""
 
 #. module: sale
